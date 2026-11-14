@@ -1,0 +1,15 @@
+.env
+*.env
+.twilio.env
+__pycache__/
+*.log
+*.err
+*.pdf
+.url
+memoria/
+llamadas/tareas/
+llamadas/registro/
+llamadas/bin/
+cv/*.md
+!README.md
+!CLAUDE.example.md
